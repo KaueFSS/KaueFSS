@@ -23,6 +23,6 @@ Software developer building desktop apps, bots and web tools. I care about clean
 |---|---|
 | [**Kyra Plan**](https://github.com/KaueFSS/SentUtility) · [demo](https://kauefss.github.io/SentUtility/) | Desktop planner: tasks, calendar, weekly schedule and focus tools. Tauri 2 + React + Rust + SQLite, 100% offline, with signed auto-updates. |
 | [**Kyra Tube**](https://github.com/KaueFSS/OffTube) | Downloads YouTube videos and whole playlists as MP3 or MP4. |
-| [**MeuNegocio_App**](https://github.com/KaueFSS/MeuNegocio_App) | Management system for a small grocery store: sales, stock, suppliers and customer credit. |
+| [**Kyra Market**](https://github.com/KaueFSS/MeuNegocio_App) | Management system for a small grocery store: sales, stock, suppliers and customer credit. |
 
 Open to opportunities and to collaborating on open source.

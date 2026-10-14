@@ -1,47 +1,30 @@
-# Hi, I'm Kauê Fernandes 👋
+# Kauê Fernandes
 
-[![Discord](https://img.shields.io/badge/kyrastring-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kyrastring)
-[![Gmail](https://img.shields.io/badge/kaue.fss.of@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaue.fss.of@gmail.com)
+Software developer building desktop apps, bots and web tools. I care about clean code, good UI and shipping things people actually use.
 
-I believe well-written code is the best documentation. Most of what I know lives in my repositories.
-Always open to collaborating on open source projects.
+[![Discord](https://img.shields.io/badge/kyrastring-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/kyrastring)
+[![Email](https://img.shields.io/badge/kaue.fss.of@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kaue.fss.of@gmail.com)
 
----
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🛠️ Technologies
+## Featured projects
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+| Project | What it is |
+|---|---|
+| [**SentUtility**](https://github.com/KaueFSS/SentUtility) · [demo](https://kauefss.github.io/SentUtility/) | Desktop planner: tasks, calendar, weekly schedule and focus tools. Tauri 2 + React + Rust + SQLite, 100% offline, with signed auto-updates. |
+| [**OffTube**](https://github.com/KaueFSS/OffTube) | Downloads YouTube videos and whole playlists as MP3 or MP4. |
+| [**ASTRA_BOT_IA**](https://github.com/KaueFSS/ASTRA_BOT_IA) | AI-powered Discord bot with advanced commands (Python). |
+| [**MeuNegocio_App**](https://github.com/KaueFSS/MeuNegocio_App) | Management system for a small grocery store: sales, stock, suppliers and customer credit. |
+| [**Grupo-4-PFE-2026.1-react**](https://github.com/KaueFSS/Grupo-4-PFE-2026.1-react) · [live](https://grupo-4-pfe-2026-1-react.vercel.app) | Institutional website for ACBrasil, built with React on top of the association's WordPress API. |
 
-## 🎨 Tools
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KaueFSS&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🚀 Interests
-
-- 🔓 Open Source
-- 💡 Personal projects with impact
-- 🎨 Design & UI
-- 🌐 Web Development
-
----
-
-⭐ Drop a star on projects you like · 🌐 Portfolio coming soon
+Open to opportunities and to collaborating on open source.

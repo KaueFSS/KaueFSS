@@ -23,8 +23,6 @@ Software developer building desktop apps, bots and web tools. I care about clean
 |---|---|
 | [**SentUtility**](https://github.com/KaueFSS/SentUtility) · [demo](https://kauefss.github.io/SentUtility/) | Desktop planner: tasks, calendar, weekly schedule and focus tools. Tauri 2 + React + Rust + SQLite, 100% offline, with signed auto-updates. |
 | [**OffTube**](https://github.com/KaueFSS/OffTube) | Downloads YouTube videos and whole playlists as MP3 or MP4. |
-| [**ASTRA_BOT_IA**](https://github.com/KaueFSS/ASTRA_BOT_IA) | AI-powered Discord bot with advanced commands (Python). |
 | [**MeuNegocio_App**](https://github.com/KaueFSS/MeuNegocio_App) | Management system for a small grocery store: sales, stock, suppliers and customer credit. |
-| [**Grupo-4-PFE-2026.1-react**](https://github.com/KaueFSS/Grupo-4-PFE-2026.1-react) · [live](https://grupo-4-pfe-2026-1-react.vercel.app) | Institutional website for ACBrasil, built with React on top of the association's WordPress API. |
 
 Open to opportunities and to collaborating on open source.

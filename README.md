@@ -12,6 +12,8 @@
 
 <img src="https://skillicons.dev/icons?i=rust,ts,react,tauri,py,java,mysql,figma,git&perline=9&theme=light" alt="Rust, TypeScript, React, Tauri, Python, Java, SQL, Figma, Git" />
 
+
+
 <a href="https://github.com/KaueFSS/Kyra-Plan"><img src="assets/kyra-plan-card-k.png" width="232" alt="Kyra Plan: desktop planner" /></a>
 <a href="https://github.com/KaueFSS/Kyra-Tube"><img src="assets/kyra-tube-card-k.png" width="232" alt="Kyra Tube: YouTube downloader" /></a>
 <a href="https://github.com/KaueFSS/Kyra-Market"><img src="assets/kyra-market-card-k.png" width="232" alt="Kyra Market: store management" /></a>
